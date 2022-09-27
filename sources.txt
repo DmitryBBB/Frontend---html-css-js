@@ -1,1 +1,18 @@
-Полезные ссылки
+Полезные ссылки:
+https://htmlcheatsheet.com/
+
+https://codepen.io/
+
+https://developer.mozilla.org/ru/docs/learn
+
+
+JS:
+https://learn.javascript.ru/
+
+
+HTML:
+https://html.spec.whatwg.org/#toc-semantics
+http://htmlbook.ru/
+
+
+CSS:
